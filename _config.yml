@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Harold McGee Blog"
+title                    : "McGee Note"
 title_separator          : "|"
 subtitle                 : "KEEP GOING"
-name                     : "Harold McGee"
+name                     : "Jeongtaek Lee"
 description              : "Harold McGee의 블로그입니다."
 url                      : "https://jeongtaek99.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,8 +107,8 @@ author:
   name             : "Jeongtaek99"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**매일** 공부하는 개발자."
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea"
+  email            : "2jeongtaek.gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
