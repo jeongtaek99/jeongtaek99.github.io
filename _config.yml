@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeongtaek99"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Logo.png"
   bio              : "**매일** 공부하는 개발자."
   location         : "South Korea"
   email            : "2jeongtaek.gmail.com"
@@ -291,5 +291,10 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_label: "목차"
+      toc_icon: "fas fa-list-ul"
+      author_profile: false
 
 date_format: "%Y-%m-%d"
