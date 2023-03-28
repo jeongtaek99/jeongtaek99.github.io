@@ -17,6 +17,13 @@ docs:
       - title: "Tag"
         url: /tags/
 
+
+counts:
+  - title: "category"
+    use: true
+  - title: "tag"
+    use: true
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
